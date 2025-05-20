@@ -1,0 +1,28 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# ROS2 and colcon stuff
+build/
+install/
+log/
+*.launch.py
+
+# Python virtual environment
+venv/
+.env/
+
+# Logs
+*.log
+
+# System/Editor/IDE files
+.DS_Store
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Secret/API key files
+secrets.json
+*.env

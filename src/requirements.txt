@@ -1,0 +1,26 @@
+rclpy
+speechrecognition
+pyttsx3
+playsound3
+openai
+google-api-python-client
+transformers
+spacy
+requests
+pytz
+pydub
+tzlocal
+simpleaudio
+aiohttp
+python-dateutil
+tiktoken
+pygame
+torch==2.3.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0.tar.gz
+hf_xet
+matplotlib
+portaudio19-dev python3.12-dev -y
+pyaudio
+espeak-ng -y
+pulseaudio -y
+dotenv
