@@ -1,4 +1,4 @@
-# Who is Baxter
+# Who is Baxter?
 Baxter is a charming AI chatbot companion designed with 4 personalities and real-time info retrieval capabilities. Its response delivery latency is less than 2 seconds for 90% of queries, leveraging OpenAI's streaming TTS service. He also has an audio visualizer, synced to the output of the sound file created from TTS. This is used on the GUI to accompany the companion's personality.
 
 # Baxter Chatbot Setup Guide
